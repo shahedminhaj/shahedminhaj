@@ -1,7 +1,7 @@
 # Hi 👋, I'm Md. Shahed Minhaj
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=600&lines=CSE+Student+at+BRAC+University;Machine+Learning+%26+Explainable+AI;Computer+Vision+%7C+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=600&lines=Machine+Learning+%26+Explainable+AI;Computer+Vision+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 I'm a CSE student at **BRAC University** with a strong interest in **software engineering** and **AI/ML**. I've built full-stack projects and worked on machine learning and deep learning projects, and I enjoy solving real-world problems by turning ideas into practical solutions.
